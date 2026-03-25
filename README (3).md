@@ -1,5 +1,7 @@
 # 📊 Maths & Statistics Project (PR-4)
 
+Video Link - https://drive.google.com/drive/folders/1Op6YqYeoUBf0EJWjnIKrW0Z3hyqAhHk6
+
 ## 📌 Project Overview
 This project is based on fundamental concepts of **Mathematics and Statistics**.  
 It includes theoretical understanding as well as practical implementation using Python (Jupyter Notebook).
